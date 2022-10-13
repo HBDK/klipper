@@ -1,0 +1,2 @@
+camera="usb"
+camera_usb_options="-r 640x480 -f 10 -d usb-HD_Camera_Manufacturer_USB_2.0_Camera-video-index0"
